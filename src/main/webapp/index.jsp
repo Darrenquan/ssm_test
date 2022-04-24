@@ -9,7 +9,7 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title>ss练习</title>
+    <title>ss练习（顺道练习了一下git）</title>
 </head>
 <body>
     <c:forEach items="${list}" var="user">
