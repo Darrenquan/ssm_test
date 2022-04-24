@@ -16,5 +16,6 @@
         ${user.id}--${user.username}--${user.password}--${user.sex}--${user.age}--${user.email}
     </c:forEach>
     <h1>再练习一次push</h1>
+    <h1>再练习一次pull</h1>
 </body>
 </html>
