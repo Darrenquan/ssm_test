@@ -15,5 +15,6 @@
     <c:forEach items="${list}" var="user">
         ${user.id}--${user.username}--${user.password}--${user.sex}--${user.age}--${user.email}
     </c:forEach>
+    <h1>再练习一次push</h1>
 </body>
 </html>
